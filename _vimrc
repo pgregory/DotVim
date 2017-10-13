@@ -1,8 +1,8 @@
 syntax on
 filetype plugin indent on
 
-colorscheme one
 set background=dark
+colorscheme solarized
 
 let g:airline_theme='one'
 
