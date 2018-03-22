@@ -31,3 +31,6 @@
 [submodule "pack/plugins/start/Jenkinsfile-vim-syntax"]
 	path = pack/plugins/start/Jenkinsfile-vim-syntax
 	url = git@github.com:martinda/Jenkinsfile-vim-syntax.git
+[submodule "pack/plugins/start/vimoutliner"]
+	path = pack/plugins/start/vimoutliner
+	url = https://github.com/vimoutliner/vimoutliner.git
